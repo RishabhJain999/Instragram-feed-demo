@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  margin-top: 1rem;
+}
+.app__left {
+  flex: 1.5;
+}
+
+.app__right {
+  flex: 2;
+  margin-left: 2rem;
+}
+
+.app h1 {
+  text-align: center;
+  color: darkred;
+}
